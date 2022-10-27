@@ -16,6 +16,7 @@ Tweet at me ![here](https://twitter.com/Fridgelmao)
 Known programming languages:
 
 |Rank|Language|
+|---|---|
 |1|Python|
 |2|Dart|
 |3|Java|
@@ -24,6 +25,7 @@ Known programming languages:
 Favorite packages <3:
 
 |Language|Package|
+|---|---|
 |Python|TensoFlow,pandas,owlready2,numpy|
 |Dart|Flutter|
 |Java|Mockito,Jackson|
