@@ -66,7 +66,7 @@
 
 ## 📱 Connect With Me
 
-![LinkedIn](https://www.linkedin.com/in/vitovekic)
+[LinkedIn](https://www.linkedin.com/in/vitovekic)
 
 ---
 
